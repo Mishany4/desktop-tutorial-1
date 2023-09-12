@@ -1,8 +1,8 @@
-//
+// Ван Сихэм Франклин О' Нил Джон 1032189251
 // Created by mishka4u on 9/12/23.
 //
 #include <iostream>
-#include <cmath>
+
 using namespace std;
 
 int main() {
